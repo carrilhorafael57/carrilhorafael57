@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a full-stack developer with 1 year of working experience and I've been working with Javascript/Typescript, Node.js, and React.
+
+*   🌍  I'm based in Burnaby/Canada.
+*   🧠  I'm currently learning Python.
+*   🤝  I'm open to collaborating on meaningful projects.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carrilhorafael57&label=Profile%20views&color=0e75b6&style=flat" alt="carrilhorafael57" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -13,6 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carrilhorafael57&" alt="carrilhorafael57" /></p>
 
-![Anurag's GitHub stats](https://rafael-stats-2.vercel.app/api?username=carrilhorafael57&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true)
+![Anurag's GitHub stats](https://rafael-stats-2.vercel.app/api?username=carrilhorafael57&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&hide=stars_earned,prs_reviewed)
 
 [![Top Langs](https://rafael-stats-2.vercel.app/api/top-langs/?username=carrilhorafael57&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
