@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://rafael-stats-2.vercel.app/api?username=carrilhorafael57&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))
+![Anurag's GitHub stats](https://rafael-stats-2.vercel.app/api?username=carrilhorafael57&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Top Langs](https://rafael-stats-2.vercel.app/api/top-langs/?username=carrilhorafael57&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
