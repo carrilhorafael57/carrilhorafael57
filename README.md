@@ -13,6 +13,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carrilhorafael57&" alt="carrilhorafael57" /></p>
 
-![Anurag's GitHub stats](https://rafael-stats-2.vercel.app/api?username=carrilhorafael57&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&hide_rank)
+![Anurag's GitHub stats](https://rafael-stats-2.vercel.app/api?username=carrilhorafael57&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true)
 
 [![Top Langs](https://rafael-stats-2.vercel.app/api/top-langs/?username=carrilhorafael57&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
