@@ -19,7 +19,5 @@ I'm a full-stack developer with 1 year of working experience and I've been worki
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=carrilhorafael57)](https://git.io/streak-stats)
 
-![GitHub stats](https://rafael-stats-2.vercel.app/api?username=carrilhorafael57&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&hide=total_stars_earned)
-
 [![Top Langs](https://rafael-stats-2.vercel.app/api/top-langs/?username=carrilhorafael57&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
