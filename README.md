@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack developer with 1 year of working experience and I've been working with Javascript/Typescript, Node.js, and React.
+I'm a full-stack developer. I've been working with Javascript/Typescript, Node.js, React, Laravel and Next.js.
 
 *   🌍  I'm based in Burnaby/Canada.
 *   🧠  I'm currently learning Python.
